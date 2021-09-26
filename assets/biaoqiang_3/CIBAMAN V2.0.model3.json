@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CIBAMAN V2.0.moc3",
+		"Textures": [
+			"CIBAMAN V2.0.1024/texture_00.png"
+		],
+		"DisplayInfo": "CIBAMAN V2.0.cdi3.json"
+	}
+}
