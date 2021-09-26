@@ -1,0 +1,11 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CIBAMAN.moc3",
+		"Textures": [
+			textures/texture_00.png"
+		],
+		"Physics": "biaoqiang_3.physics3.json",
+		"DisplayInfo": "CIBAMAN.cdi3.json"
+	}
+}
